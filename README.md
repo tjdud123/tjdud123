@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=7,4,4,8,8,8,&text=webDesigner&animation=fadein)
 <h1 align="center">Hi 👋, I'm Suh Young</h1>
-<h3 align="center">저는 목표를 향해 나아가는 웹디자이너&웹퍼블리셔 윤서영입니다.</h3>
+<h3 align="center">웹디자이너&웹퍼블리셔 윤서영입니다.</h3>
 
 - 🌱 I’m currently learning **HTML / JAVA / CSS**
 

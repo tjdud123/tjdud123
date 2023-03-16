@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=webDesign&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving)
 <h1 align="center">Hi 👋, I'm Suh Young</h1>
 <h3 align="center">저는 목표를 향해 나아가는 웹디자이너&웹퍼블리셔 윤서영입니다.</h3>
 
